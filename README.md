@@ -24,7 +24,8 @@
         <li>📫 Reach me at <a href="mailto:jingyichoh@gmail.com">jingyichoh@gmail.com</a>.</li>
     </ul>
 <hr>
-## 🎓 Education
+
+## 🎓 Education 
 
 - ## **SMJK TRIANG**
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
