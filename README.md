@@ -23,8 +23,8 @@
         <li>📄 Explore my resume <a href="https://drive.google.com/file/d/1vJMP-EwU6M-VDOMaPv3mIBWSGwrAIcNj/view?usp=sharing" target="_blank">here</a>.</li>
         <li>📫 Reach me at <a href="mailto:jingyichoh@gmail.com">jingyichoh@gmail.com</a>.</li>
     </ul>
-
-## 🎓Education 
+<hr>
+## 🎓 Education
 
 - ## **SMJK TRIANG**
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
@@ -32,8 +32,6 @@
   - Foundation in Physical Science (2022 - 2023)
   - Bachelor Degree in Computer Science(Bioinfomatics) (2023 - Now)
   
-
-
 <hr>
 
 ## 📑 Certificate
@@ -43,13 +41,14 @@
 - MUET 4.0  
 </pre>
 <hr>
+
 ## 💪 Skills 
+
 <p><br>
         👨‍💻 Check out my programming skills <a href="https://1drv.ms/u/s!Auecz_VMbmrgu3IcnmquIZ5BE7Vm?e=u1GK9a" target="_blank">here</a>.</p> 
-
-  ## 👨‍🎓 My study 
-
 <hr>
+
+## 👨‍🎓 My study 
 
 <h4>Year 1</h4>
 
