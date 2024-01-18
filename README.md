@@ -53,6 +53,10 @@
 
 <h4>Year 1</h4>
 
+- ### **Techonology Information System 💿**
+
+  - You can view my DL projects [here](https://github.com/chohjingyia23cs0296/TECHNOLOGY-AND--INFORMATION-SYSTEM).
+  
 - ### **Digital Logic 💾**
   - You can view my DL projects [here](https://github.com/chohjingyia23cs0296/DIGITAL-LOGIC).
 
