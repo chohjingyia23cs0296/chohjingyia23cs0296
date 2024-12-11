@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Choh Jing Yi(A23CS0296)</h1>
-<h3 align="center">Y1/SECBH , UTM student :)</h3>
+<h3 align="center">Y2/SECPH , UTM student :)</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjaTVwbW5haXVoZ2dnbHliY3lzcnFqbjBvbzFiNTl5dTJzNDV0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="chohjingyia23cs0296" /> </p>
