@@ -15,7 +15,7 @@
 
  <ul>
         <li><strong>🔭 I’m currently studying at</strong> <em>Universiti Teknologi Malaysia</em>.</li>
-        <li><strong>📫 I'm currently enrolled in</strong> <em>Computer Science (Bioinformatics)</em>.</li>
+        <li><strong>📫 I'm currently enrolled in</strong> <em>Computer Science (DATA ENGINNER)</em>.</li>
         <li><strong>🌱 I’m exploring</strong> <em>computational biology and programming</em>.</li>
         <li><strong>👯 Pursued my foundational education in</strong> <em>Physical Science at UTM</em>.</li>
         <li>💬 My hobbies include <strong>Programming, Basketball, and Badminton</strong>.</li>
