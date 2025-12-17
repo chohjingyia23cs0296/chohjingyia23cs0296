@@ -11,6 +11,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="chohjingyia23cs0296" /> </p>
 
+<div align="left">
+  <a href="mailto:jingyichoh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/chohjingyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 <h2>🧑 Little fact about me</h2>
 
  <ul>
@@ -20,7 +29,6 @@
         <li>💬 My hobbies include <strong>Programming, Basketball, and Badminton</strong>.</li>
         <li>🌟 Main languages: <strong>PYTHON,SQL,JAVA,PHP, C++</strong>.</li>
         <li>📄 Explore my resume <a href="https://drive.google.com/file/d/1vJMP-EwU6M-VDOMaPv3mIBWSGwrAIcNj/view?usp=sharing" target="_blank">here</a>.</li>
-        <li>📫 Reach me at <a href="mailto:jingyichoh@gmail.com">jingyichoh@gmail.com</a>.</li>
     </ul>
 <hr>
 
