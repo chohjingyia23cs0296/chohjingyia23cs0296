@@ -27,7 +27,7 @@
         <li><strong>📫 I'm currently enrolled in</strong> <em>Computer Science (DATA ENGINNER)</em>.</li>
         <li><strong>👯 Pursued my foundational education in</strong> <em>Physical Science at UTM</em>.</li>
         <li>💬 My hobbies include <strong>Programming, Basketball, and Badminton</strong>.</li>
-        <li>🌟 Main languages: <strong>PYTHON,SQL,JAVA,PHP, C++</strong>.</li>
+        <li>🌟 Main languages: <strong>PYTHON,MTSQL,MONGODB,JAVA,PHP, C++</strong>.</li>
         <li>📄 Explore my resume <a href="https://drive.google.com/file/d/1vJMP-EwU6M-VDOMaPv3mIBWSGwrAIcNj/view?usp=sharing" target="_blank">here</a>.</li>
     </ul>
 <hr>
