@@ -47,7 +47,7 @@
 - SPM 10A (3A+,5A,2A-)
 - Foundation CGPA 3.97
 - MUET 4.0  
-- DEGREE 3.99
+- Current CGPA 3.99
 </pre>
 <hr>
 
