@@ -18,14 +18,15 @@
 <br>
 
 <div align="left">
-  <a href="mailto:jingyichoh@gmail.com">
+  <a href="mailto:jingyichoh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/chohjingyi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" />
+  <a href="https://www.linkedin.com/in/chohjingyi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" height="45" />
   </a>
-  &nbsp;
+  <a href="https://github.com/chohjingyia23cs0296" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="45" />
+  </a>
   <a href="https://drive.google.com/file/d/1GoohQG-u0f1fcg5rn-dWP3Lcz_q8K_Bt/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="45" />
   </a>
