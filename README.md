@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Choh Jing Yi</h1>
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+Student;Cloud+Pipeline+Builder;AMR%2FAGV+Automation+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Y3 Data+Engineering+Student;Cloud+Pipeline+Builder;AMR%2FAGV+Automation+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
   </a>
 </p>
 
