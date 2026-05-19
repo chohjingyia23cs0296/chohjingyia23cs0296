@@ -95,6 +95,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohjingyia23cs0296&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <!-- Stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
+
+<!-- Top langs card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohjingyia23cs0296&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" />
 </p>
