@@ -39,16 +39,16 @@
 
 ## 🚀 Featured Projects
 
-- ### **[Azure End-to-End Data Engineering Pipeline](Insert_Your_Repo_Link_Here) ☁️**
+- ### **[Azure End-to-End Data Engineering Pipeline](https://github.com/chohjingyia23cs0296/medallion_architecture) ☁️**
   Designed an end-to-end ETL pipeline on Microsoft Azure (Data Factory, Databricks, Synapse Analytics) using Medallion Architecture and Power BI.
 
-- ### **[Wello System (AI Onboarding Platform)](Insert_Your_Repo_Link_Here) 💻**
+- ### **[Wello System (AI Onboarding Platform)](https://github.com/chohjingyia23cs0296/utmhackathon25) 💻**
   Led a team to build an AI-powered employee onboarding platform using the PERN stack (React, Vite, Node.js, Express.js, PostgreSQL).
 
-- ### **[Hostel Payment & Billing System](Insert_Your_Repo_Link_Here) 🏢**
+- ### **[Hostel Payment & Billing System](https://github.com/chohjingyia23cs0296/Payment-and-Billing-System-) 🏢**
   Developed a cloud-native web application on SAP BTP using SAPUI5 and MVC architecture to automate student billing workflows.
 
-- ### **[SQL Data Warehouse](Insert_Your_Repo_Link_Here) 💾**
+- ### **[SQL Data Warehouse](https://github.com/chohjingyia23cs0296/sql-data-warehouse-project) 💾**
   Built a multi-layer SQL Data Warehouse using SQL Server and SSMS, centralizing CRM data into a Star Schema.
 
 <hr>
