@@ -5,19 +5,33 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Choh Jing Yi</h1>
-<h3 align="center">Data Engineering Student @ UTM | Cloud & Full-Stack Developer</h3>
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+Student;Cloud+Pipeline+Builder;AMR%2FAGV+Automation+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" />
+  </a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRjaTVwbW5haXVoZ2dnbHliY3lzcnFqbjBvbzFiNTl5dTJzNDV0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chohjingyia23cs0296&label=Profile%20views&color=0e75b6&style=flat" alt="chohjingyia23cs0296" /> </p>
 
+<br>
+
 <div align="left">
   <a href="mailto:jingyichoh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/chohjingyi/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1GoohQG-u0f1fcg5rn-dWP3Lcz_q8K_Bt/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="45" />
   </a>
 </div>
+
+<br>
 
 <h2>🧑 Little facts about me</h2>
 
@@ -53,20 +67,33 @@
 
 <hr>
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-Cloud & Data: Microsoft Azure · AWS · Power BI · SSMS · ETL Pipelines · Medallion Architecture
-Web: React · Vite · Node.js · Express.js · SAPUI5
+<h2 align="center">🛠️ Tech Stack</h2>
 
-📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&locale=en" alt="chohjingyia23cs0296" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,postgres,mongodb,mysql&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,vscode,firebase&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat-square&logo=sap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+<hr>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chohjingyia23cs0296&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chohjingyia23cs0296&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
