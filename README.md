@@ -18,7 +18,7 @@
 <br>
 
 <div align="left">
-  <a href="mailto:jingyichoh@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=jingyichoh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/chohjingyi/" target="_blank">
