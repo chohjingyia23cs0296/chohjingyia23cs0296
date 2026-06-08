@@ -27,7 +27,7 @@
   <a href="https://github.com/chohjingyia23cs0296" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="45" />
   </a>
-  <a href="https://drive.google.com/file/d/1GoohQG-u0f1fcg5rn-dWP3Lcz_q8K_Bt/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1hNIXh4bENUIeappT-ZjWSsmuwS6SvDu9/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" height="45" />
   </a>
 </div>
